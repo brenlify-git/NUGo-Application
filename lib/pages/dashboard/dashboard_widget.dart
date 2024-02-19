@@ -1076,7 +1076,7 @@ class _DashboardWidgetState extends State<DashboardWidget> {
                                                                             0.0,
                                                                             0.0),
                                                                 child: Text(
-                                                                  'PE Area, NU Baliwag',
+                                                                  '4th Floor, PE Area, NU Baliwag',
                                                                   style: FlutterFlowTheme.of(
                                                                           context)
                                                                       .labelSmall
